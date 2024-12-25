@@ -1,0 +1,166 @@
+*{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    padding: 1.5vw;
+    text-decoration: none;
+    margin: 0;
+    font-size: larger;
+}
+body{
+    padding: 2.5vw;
+}
+.broke1{
+    display: flex;
+}
+.app1{
+    font-size: 6vh;
+    
+}
+.underline1{
+    border-bottom:2px dotted;
+}
+.broke12{
+    width: 45vw;
+    padding-left: 2vw;
+    
+}
+.img1{
+    color: gold;
+}
+.icon1{
+    height: 10vw;
+}
+.downloadg{
+    padding: 1.5vw;
+    background-color: rgb(0, 255, 0);
+    border-radius: 5vw;
+}
+.buyb{
+    padding: 1.5vw;
+    background-color: rgb(0, 149, 255);
+    border-radius: 5vw;
+}
+.frame1{
+    margin: 0px;
+    width: 70vw;
+    height:100vh;
+}
+.flex{
+    display: flex;
+}
+.basert{
+    margin: 2vw;
+}
+.larget{
+    font-size: large;
+}
+.largert{
+    font-size: 2vw;
+}
+.smallt{
+    font-size: small;
+}
+.more a{
+    color: black;
+    padding-top: 0vw;
+    padding-bottom: 0vw;
+    margin-left: 3vw;
+    border: 1px solid black;
+    border-radius: 0.5vw;
+}
+.brr{
+    padding-left: 0.2vw;
+    padding-top: 0.2vw;
+}
+.brrs{
+    font-size: small;
+}
+.logo1{
+    width: 4vw;
+}
+.green{
+    width: 33vw;
+    margin-right: 2vw;
+    padding: 1vw;
+    color: green;
+}
+.red{
+    width: 33vw;
+    color: red;
+    padding: 1vw;
+}
+.bluet{
+    color: rgb(0, 98, 255);
+}
+.blackt{
+    color: black;
+}
+.rate{
+    color: grey;
+    width: 40vw;
+    border: 1px solid black;
+    border-radius: 0.5vw;
+}
+.imgmid{
+    margin: 1vw;
+    margin-left: 0px;
+    padding: 1vw;
+    width: 70vw;
+}
+.border1{
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+.normall{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(0, 81, 255);
+    font-size: medium;
+}
+.fb11{
+    width: 23vw;
+}
+.border05{
+    border: 1px solid black;
+    margin: 0.5vw;
+    padding: 0.5vw;
+    color: black;
+    border-radius: 0.5vw;
+}
+.icon33{
+    padding: 0px;
+    width: 28vw;
+    margin: 1vw;
+}
+.iconaroun{
+    display: flex;
+    align-content:space-between;
+}
+.fscreen{
+    width: 95vw;
+}
+.width25{
+    width: 22.5vw;
+}
+.border05b{
+    border: 2px solid rgb(0, 128, 255);
+    margin: 0.5vw;
+    padding: 0.5vw;
+    color: rgb(0, 0, 0);
+    border-radius: 0.5vw;
+}
+.icon25{
+    padding: 0px;
+    width: 25vw;
+    margin: 1vw;
+}
+.icon5{
+    width: 5vw;
+}
+.blacka a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
